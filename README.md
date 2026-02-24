@@ -1,4 +1,7 @@
 ## Hi there 👋
+My name is David Silva Nascimento i'm from Brazil.
+I'm using this repository today for my class of Web 1 in IFBbaiano where i learn about a lot of things
+Actualy 
 
 <!--
 **DavidsSilva7/DavidsSilva7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
